@@ -38,7 +38,7 @@ kullanıcı dostu bir arayüzle sunmaktadır.
 - **JDBC** - Veritabanı bağlantısı
 
 ### Frontend
-- **Java Swing** - Grafiksel kullanıcı arayüzü
+- **Java Swing** - Grafiksel kullanıcı arayüzü 
 - **AWT** - Grafik ve UI bileşenleri
 
 ### Geliştirme Araçları
