@@ -10,8 +10,8 @@ kullanıcı dostu bir arayüzle sunmaktadır.
 ### 🍽️ Tarif Yönetimi
 - ✅ Yeni tarif ekleme
 - ✅ Mevcut tarifleri güncelleme
-- ✅ Tarif silme 
-- ✅ Tarif detaylarını görüntüleme
+- ✅ Tarif silme  
+- ✅ Tarif detaylarını görüntüleme 
 
 ### 🥕 Malzeme Yönetimi
 - ✅ Malzeme ekleme ve silme
