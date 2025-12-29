@@ -7,7 +7,7 @@ kullanıcı dostu bir arayüzle sunmaktadır.
 
 ## ✨ Özellikler
 
-### 🍽️ Tarif Yönetimi
+### 🍽️ Tarif Yönetimi 
 - ✅ Yeni tarif ekleme
 - ✅ Mevcut tarifleri güncelleme
 - ✅ Tarif silme  
