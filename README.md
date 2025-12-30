@@ -5,7 +5,7 @@
 Bu proje, kullanıcıların tarif yönetimi yapabileceği kapsamlı bir masaüstü uygulamasıdır. Uygulama, tarif ekleme, güncelleme, silme, filtreleme ve malzeme arama gibi temel işlevleri
 kullanıcı dostu bir arayüzle sunmaktadır.
 
-## ✨ Özellikler
+## ✨ Özellikler 
 
 ### 🍽️ Tarif Yönetimi 
 - ✅ Yeni tarif ekleme
