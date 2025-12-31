@@ -17,7 +17,7 @@ kullanıcı dostu bir arayüzle sunmaktadır.
 - ✅ Malzeme ekleme ve silme
 - ✅ Malzeme arama
 - ✅ Malzeme bazlı filtreleme
- 
+  
 ### 🔍 Arama ve Filtreleme
 - ✅ Tarif adına göre arama
 - ✅ Malzeme bazlı filtreleme
