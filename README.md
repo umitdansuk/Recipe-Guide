@@ -2,7 +2,7 @@
 
 ## 📋 Proje Açıklaması
 
-Bu proje, kullanıcıların tarif yönetimi yapabileceği kapsamlı bir masaüstü uygulamasıdır. Uygulama, tarif ekleme, güncelleme, silme, filtreleme ve malzeme arama gibi temel işlevleri
+Bu proje, kullanıcıların tarif yönetimi yapabileceği kapsamlı bir masaüstü uygulamasıdır. Uygulama, tarif ekleme, güncelleme, silme, filtreleme ve malzeme arama gibi temel işlevleri 
 kullanıcı dostu bir arayüzle sunmaktadır.
 
 ## ✨ Özellikler 
